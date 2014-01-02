@@ -17,3 +17,5 @@ What is this undefined?
 undefined
 
 In JavaScript, the absence of a value is written undefined, and it means there is no value. It will crop up again. undefined is its own type of value, and it acts like a value type:
+
+###Closures and Scope
