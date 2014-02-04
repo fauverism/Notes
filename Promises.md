@@ -25,3 +25,7 @@ Although promise implementations follow a standardised behaviour, their overall 
         reject(Error("It broke"));
       }
     });    
+    
+---
+##Additional Links
+https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md
