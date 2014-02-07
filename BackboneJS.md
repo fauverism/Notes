@@ -12,10 +12,10 @@ BackboneJS
 Server | Data
 Data > Model > View > DOM
 
-  var TodoItem = Backbone.Model.extend({});
-  var todoItem = new TodoItem(
-    {description: 'Pick up'}
-  );
+    var TodoItem = Backbone.Model.extend({});
+    var todoItem = new TodoItem(
+        {description: 'Pick up'}
+    );
   
 .get > data out of the model
 .set > send in a JSON object
